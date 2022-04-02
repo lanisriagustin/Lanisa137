@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Iam Lanisa👋
 
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Learning-blue)
